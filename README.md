@@ -8,9 +8,9 @@ I using technical following:
 
 Install the following dependencies.
 
-  +go get -u github.com/gin-gonic/gin
-  +go get github.com/astaxie/beego/orm
-  +go get github.com/lib/pq
+  + go get -u github.com/gin-gonic/gin
+  + go get github.com/astaxie/beego/orm
+  + go get github.com/lib/pq
 
 I using docker-compose for database.
  + Run: cd docker && docker-compose up -d
